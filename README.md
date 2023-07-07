@@ -1,5 +1,5 @@
 ### Hello ^^
-I'm MinegameYtb
+I'm Minegame Ytb
 
 I am someone who has a passion for drawing and computing (more particularly the Os running under the Linux kernel) 
 I also draw (even if my drawings are not all finished, I regularly publish the progress of his latest) 
