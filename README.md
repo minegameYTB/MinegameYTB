@@ -5,8 +5,3 @@ I am someone who has a passion for drawing and computing (more particularly the 
 I also draw (even if my drawings are not all finished, I regularly publish the progress of his latest) 
 
 if you are visiting my github, I also have a twitter, instagram and mastodon account (on the mastodon.social instance)
-
-twitter: https://twitter.com/minegame2018
-instagram: https://instagram.com/minegameytb_?igshid=MzNlNGNkZWQ4Mg==
-
-<a rel="me" href="https://mastodon.social/@minegame2018">Mastodon</a>
